@@ -28,3 +28,12 @@ section#telefone {
     width: 311px;
     background: url('../imagens/celular.png') no-repeat;
 }
+
+iframe#tela {
+    position: relative;
+    top: 33px;
+    left: 34px;
+    height: 543px;
+    width: 245px;
+    border-radius: 18px;
+}
